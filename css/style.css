@@ -440,7 +440,7 @@ footer {
 }
 
 #register input[type="submit"] {
-  background: #f2545f;
+  background: #906247;
   border-radius: 100px;
   border: none;
   color: #ffffff;
@@ -598,7 +598,7 @@ footer {
 }
 
 #contact input[type="submit"]:hover {
-  background: #f2545f;
+  background: #906247;
 }
 
 
@@ -630,7 +630,7 @@ footer {
 }
 
 .go-top:hover {
-    background: #f2545f;
+    background: #906247;
     color: #ffffff;
 }
 
@@ -663,7 +663,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #f2545f;
+    background: #906247;
     color: #ffffff;
 }
 

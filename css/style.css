@@ -262,7 +262,7 @@ footer {
     Intro section              
 -----------------------------------------*/
 #intro {
-    background: url('../images/calm.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/calm.webp') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -420,7 +420,7 @@ footer {
     Regsiter section              
 -----------------------------------------*/
 #register {
-    background: url('../images/register-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/register-bg.webp') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;

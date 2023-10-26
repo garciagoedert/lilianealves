@@ -262,7 +262,7 @@ footer {
     Intro section              
 -----------------------------------------*/
 #intro {
-    background: url('../images/calm.webp') 50% 0 repeat-y fixed;
+    background: url('../images/calm.webp') 30% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -277,6 +277,7 @@ footer {
           align-items: center;
     height: 100vh;
     text-align: center;
+    /* opacity: 0.2; */
 }
 
 #intro h3 {
@@ -420,7 +421,7 @@ footer {
     Regsiter section              
 -----------------------------------------*/
 #register {
-    background: url('../images/register-bg.webp') 50% 0 repeat-y fixed;
+    background: url('../images/IMG_0814.JPG') 30% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;

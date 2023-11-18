@@ -261,7 +261,7 @@ footer {
 /*---------------------------------------
     Intro section              
 -----------------------------------------*/
-#intro {
+.intro {
     background: url('../images/max576calm.png') 100% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -281,7 +281,7 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
-  #intro {
+  .intro {
     background-image: url(/images/max576calm.png);
   }
   }
@@ -290,7 +290,7 @@ footer {
   
   @media screen and (min-width: 577px) {
   .intro {
-    background-image: url(/LP/images/Foto\ inicial\ \(PC\)\ \(convert.io\).webp);
+    background-image: url(/images/calm.webp);
   }
   }
 

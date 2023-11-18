@@ -264,6 +264,7 @@ footer {
 .intro {
     /* background: url('../images/max576calm.png') 100% 0 repeat-y fixed; */
     -webkit-background-size: cover;
+    background-color: white;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -282,7 +283,7 @@ footer {
 
 @media screen and (max-width: 600px) {
   .intro {
-    background: url('../images/max576calm.png') 100% 0 repeat-y fixed;
+    /* background: url('../images/max576calm.png') 100% 0 repeat-y fixed; */
   }
   }
   
@@ -290,7 +291,7 @@ footer {
   
   @media screen and (min-width: 601px) {
   .intro {
-    background: url('../images/calm.webp') 100% 0 repeat-y fixed;
+    /* background: url('../images/calm.webp') 100% 0 repeat-y fixed; */
   }
   }
 

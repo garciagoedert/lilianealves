@@ -282,7 +282,7 @@ footer {
 
 @media screen and (max-width: 600px) {
   .intro {
-    background-image: url(/images/max576calm.png);
+    background: url('../images/max576calm.png') 100% 0 repeat-y fixed;
   }
   }
   
@@ -290,7 +290,7 @@ footer {
   
   @media screen and (min-width: 601px) {
   .intro {
-    background-image: url(/images/calm.webp);
+    background: url('../images/calm.webp') 100% 0 repeat-y fixed;
   }
   }
 

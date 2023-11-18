@@ -268,12 +268,12 @@ footer {
     background-position: center center;
     color: #ffffff;
      display: -webkit-box;
-    display: -webkit-flex;
-     display: -ms-flexbox;
-    display: flex;
+    /* display: -webkit-flex; */
+     /* display: -ms-flexbox; */
+    /* display: flex; */
     -webkit-box-align: center;
-     -webkit-align-items: center;
-      -ms-flex-align: center;
+     /* -webkit-align-items: center; */
+      /* -ms-flex-align: center; */
           align-items: center;
     height: 100vh;
     text-align: center;

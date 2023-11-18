@@ -280,6 +280,20 @@ footer {
     /* opacity: 0.2; */
 }
 
+@media screen and (max-width: 576px) {
+  .intro {
+    background-image: url(/images/max576calm.png);
+  }
+  }
+  
+ 
+  
+  @media screen and (min-width: 577px) {
+  .intro {
+    background-image: url(/LP/images/Foto\ inicial\ \(PC\)\ \(convert.io\).webp);
+  }
+  }
+
 #intro h3 {
   letter-spacing: 2px;
 }
@@ -737,3 +751,34 @@ footer {
 
 }
 
+/* MEDIA BACKGROUND IMAGES */
+
+.hero {
+background-size: cover;
+background-position: top;
+background-repeat: no-repeat;
+vertical-align: middle;
+min-height: 100vh;
+position: relative;
+
+
+
+}
+
+@media screen and (max-width: 576px) {
+.hero {
+  background-image: url(/LP/images/min.webp);
+}
+}
+
+@media screen and (max-width: 576px) {
+.hero {
+  /* background-image: url(/LP/images/Capa\ LP\ \(mobile\)\ \(1\)\ \(convert.io\).webp); */
+}
+}
+
+@media screen and (min-width: 577px) {
+.hero {
+  background-image: url(/LP/images/Foto\ inicial\ \(PC\)\ \(convert.io\).webp);
+}
+}

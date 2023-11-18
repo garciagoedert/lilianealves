@@ -436,9 +436,9 @@ footer {
 -----------------------------------------*/
 #register {
     background: url('../images/IMG_0814.JPG') 100% 0 repeat-y fixed;
-    -webkit-background-size: cover;
+    /* -webkit-background-size: cover;
     background-size: cover;
-    background-position: center center;
+    background-position: center center; */
     color: #ffffff;
 }
 

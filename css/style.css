@@ -264,7 +264,7 @@ footer {
 .intro {
     /* background: url('../images/max576calm.png') 100% 0 repeat-y fixed; */
     /* -webkit-background-size: cover; */
-    background-size: cover;
+    /* background-size: cover; */
     background-position: center center;
     color: #ffffff;
      display: -webkit-box;

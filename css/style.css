@@ -281,7 +281,7 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
-  .intro {
+  #intro {
     background-image: url(/images/max576calm.png);
   }
   }

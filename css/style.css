@@ -281,7 +281,7 @@ footer {
     /* opacity: 0.2; */
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .intro {
     background: url('../images/max576calm.png') 100% 0 repeat-y fixed;
   }
@@ -289,7 +289,7 @@ footer {
   
  
   
-  @media screen and (min-width: 601px) {
+  @media screen and (min-width: 501px) {
   .intro {
     background: url('../images/calm.webp') 100% 0 repeat-y fixed;
   }
@@ -754,7 +754,7 @@ footer {
 
 /* MEDIA BACKGROUND IMAGES */
 
-.hero {
+/* .hero {
 background-size: cover;
 background-position: top;
 background-repeat: no-repeat;
@@ -774,7 +774,7 @@ position: relative;
 
 @media screen and (max-width: 576px) {
 .hero {
-  /* background-image: url(/LP/images/Capa\ LP\ \(mobile\)\ \(1\)\ \(convert.io\).webp); */
+  background-image: url(/LP/images/Capa\ LP\ \(mobile\)\ \(1\)\ \(convert.io\).webp);
 }
 }
 
@@ -782,4 +782,4 @@ position: relative;
 .hero {
   background-image: url(/LP/images/Foto\ inicial\ \(PC\)\ \(convert.io\).webp);
 }
-}
+} */

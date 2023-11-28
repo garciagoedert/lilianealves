@@ -281,7 +281,7 @@ footer {
     /* opacity: 0.2; */
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 400px) {
   .intro {
     background: url('../images/max576calmsemgrade.png') 100% 0  fixed;
   }
@@ -289,7 +289,7 @@ footer {
   
  
   
-  @media screen and (min-width: 501px) {
+  @media screen and (min-width: 401px) {
   .intro {
     background: url('../images/calmsemgrade.webp') 80% 0  fixed;
   }

@@ -262,7 +262,7 @@ footer {
     Intro section              
 -----------------------------------------*/
 .intro {
-    background: url('../images/fotofundo.png') 100% 0 repeat-y fixed;
+    background: url('../images/calmsemgrade.webp') 100% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-color: white;
     background-size: cover;
@@ -283,7 +283,7 @@ footer {
 
 @media screen and (max-width: 500px) {
   .intro {
-    background: url('../images/fotofundo.png') 100% 0 repeat-y fixed;
+    background: url('../images/max576calmsemgrade.png') 100% 0 repeat-y fixed;
   }
   }
   
@@ -291,7 +291,7 @@ footer {
   
   @media screen and (min-width: 501px) {
   .intro {
-    background: url('../images/fotofundo.png') 100% 0 repeat-y fixed;
+    background: url('../images/calmsemgrade.webp') 100% 0 repeat-y fixed;
   }
   }
 

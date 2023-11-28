@@ -283,7 +283,7 @@ footer {
 
 @media screen and (max-width: 500px) {
   .intro {
-    background: url('../images/max576calmsemgrade.png') 100% 0 repeat-y fixed;
+    background: url('../images/max576calmsemgrade.png') 100% 0;
   }
   }
   

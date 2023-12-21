@@ -110,7 +110,7 @@ footer {
 
 #intro .btn-danger,
 #contact .btn-danger {
-    background: #f2545f;
+    /* background: #f2545f; */
     border-color: transparent;
 }
 
@@ -320,7 +320,7 @@ footer {
 }
 
 #detail .fa {
-  color: #f2545f;
+  /* color: #f2545f; */
   font-size: 48px;
 }
 
@@ -420,7 +420,7 @@ footer {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #f2545f;
+  /* color: #f2545f; */
   cursor: default;
   background-color: transparent;
   border: 1px solid transparent;
